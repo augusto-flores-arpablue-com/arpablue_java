@@ -1,0 +1,8 @@
+com.arpablue.xsystemfile.FilterActionRemoveLine
+com.arpablue.xsystemfile.FilterActionAddAtEnd
+com.arpablue.xsystemfile.FilterActionAddBeginning
+com.arpablue.xsystemfile.IActionFilter
+com.arpablue.xsystemfile.FilterActionRemoveEmtpyLine
+com.arpablue.xsystemfile.FilterAction
+com.arpablue.xsystemfile.FilterActionApplyObject
+com.arpablue.xsystemfile.FilterFile
